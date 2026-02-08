@@ -16,7 +16,7 @@ Connect with Me
 📫 Connect:
 - [LinkedIn Profile](https://www.linkedin.com/in/bennekrouf/)
 - [Mayorana Website](https://mayorana.ch/)
-- Email: contact@mayorana.ch
+- Email: mb@mayorana.ch
 
 🌟 Currently Exploring:
 - Open-source LLMs like Llama 4.x for enterprise AI.
